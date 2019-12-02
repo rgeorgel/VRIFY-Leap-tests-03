@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "vrify",
+    "password": "vrify",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "vrify",
+    "password": "vrify",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
